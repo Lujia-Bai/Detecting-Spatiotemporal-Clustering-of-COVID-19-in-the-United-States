@@ -1,0 +1,7 @@
+1	2	3	4
+300000.00	1.80	100000.00	1.00
+
+# p1 = spatial bandwidth
+# p2 = temporal bandwidth
+# p3 = spatial resolution
+# p4 = temporal resolution
