@@ -1,5 +1,7 @@
 Detecting-Spatiotemporal-Clustering-of-COVID-19-in-the-United-States
+
 Author: Fangzheng Lyu
+
 Contact: flu8@illinois.edu
 
 This dataset contains all the code, notebooks, datasets used in the study conducted for the research Multi-scale CyberGIS Analytics for Detecting Spatiotemporal Patterns of COVID-19 Data. Specifically, the dataset and the codes conducted a spatial-temporal analysis with space time kernel estimation with COVID-19 data. The dataset includes codes, notebook and example LiDAR data for the users to be able to find pattern and conduct analysis with COVID-19 data.
