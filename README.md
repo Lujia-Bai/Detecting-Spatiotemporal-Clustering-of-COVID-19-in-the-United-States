@@ -8,6 +8,31 @@ This dataset contains all the code, notebooks, datasets used in the study conduc
 
 
 This dataset includes:
+
+●	`Multi-scale CyberGIS Analytics for Detecting Spatiotemporal Patterns of COVID-19.ipynb` is a jupyter notebook for this project
+
+●	`data` is a folder containing all data needed for the notebook
+	○	data/county.txt: US counties information and fip code from Natural Resources Conservation Service
+
+	○	data/us-counties.txt: County-level COVID-19 data collected from New York Times COVID-19 github repository on August 4th
+
+	○	data/covid_death.txt: COVID-19 death information after processing us-counties.txt
+
+	○	data/stkdefinal.txt: result from conducting space-timne kernel density estimation
+
+
+●	`wolfram_mathmatica` is a folder for 3D visulization code
+
+	○	wolfram_mathmatica/Visualization.nb: code for visulization of STKDE result via weolfram mathmatica
+
+
+●	`img` is a folder for figures
+
+	○	img/above.png: 3-D visulization, above view
+
+
+	○	img/side.png: 3-D visulization, side view
+
 ●	`STKDE` is a folder containing all codes and data used for Space time kernel density estimation
 
 	○	`files` is a folder containing the data and parameter configuration
