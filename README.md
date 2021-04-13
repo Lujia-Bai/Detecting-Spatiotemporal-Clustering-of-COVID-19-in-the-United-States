@@ -12,6 +12,7 @@ This dataset includes:
 ●	`Multi-scale CyberGIS Analytics for Detecting Spatiotemporal Patterns of COVID-19.ipynb` is a jupyter notebook for this project
 
 ●	`data` is a folder containing all data needed for the notebook
+
 	○	data/county.txt: US counties information and fip code from Natural Resources Conservation Service
 
 	○	data/us-counties.txt: County-level COVID-19 data collected from New York Times COVID-19 github repository on August 4th
